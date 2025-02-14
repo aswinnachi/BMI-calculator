@@ -7,5 +7,5 @@ if x>=18.5 and x<25:
     print("Normal")
 if x >= 25 and x < 30:
    print('Overweight')
- x >= 30:
+if x >= 30:
    print('Obesity')
